@@ -1,6 +1,6 @@
 # 0x01. Python - Async
 
-![Async Programming](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/4aeaa9c3cb1f316c05c4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250116T022330Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d5331a0cf1e126c6baabe26ff661ef146600f204565d951841a0b0709fd224e2)
+![Async Programming Meme](https://media.makeameme.org/created/python-programmers-python.jpg)
 
 ## Overview
 
